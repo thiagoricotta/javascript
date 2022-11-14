@@ -1,0 +1,96 @@
+
+/* Nav */
+
+#title-conf {
+    color:  #f7f2f8 ;
+    font-size: 1.7em;
+}
+#nav-it {
+    color: #d5d9db;
+    font-size: 1.1vw;
+}
+
+#nav-it:hover {
+    color: #1ca123;
+}
+
+/*  Estilos del Formulario*/
+
+.container-fluid{
+    padding: 0%;
+    margin: 0%;
+    
+ }
+ 
+ #menu{
+     
+     right: 0%;
+     left: 0%;
+     top: 0%;
+ }
+ 
+
+.container-sm{
+width: 50%;
+}
+
+@media screen and (max-width:990px){
+    .container-sm{
+        width: 100%;
+        }
+        
+
+}
+
+#formulario{
+    margin-top: 2em;
+}
+
+.card {
+    margin-left: 2vw;
+    margin-right: 2vw;
+}
+
+#cardEst {
+    border-color: #017bff;
+    margin: 0 2px 0 12px;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+
+}
+
+#cardTra {
+    border-color: #17a2b8;
+    margin: 0 2px 0 12px;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+
+}
+
+#cardJun {
+    border-color: #fec007;
+    margin: 0 2px 0 12px;
+    padding: 0%;
+    margin: 0%;
+    width: 100%;
+
+}
+
+/* Footer*/
+
+#footer{
+    background: rgb(9,30,36) linear-gradient(90deg, rgba(9,30,36,1) 0%, rgba(25,74,88,1) 68%, rgba(26,108,121,1) 100%, rgba(0,212,255,1) 100%);
+    margin: 0%;
+
+}
+
+.col {
+    padding-top: 2px;
+    padding-right: 0%;
+}
+
+
+
+
